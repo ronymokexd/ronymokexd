@@ -1,7 +1,8 @@
 # Hi there 👋  
 I'm Ronaldo Rodriguez De Lima  
 
-💻 **About Me**  
+💻 **About Me** 
+
 I'm a developer in training on riwii and study technology of system information on universidad de barranquilla  
 
 🚀 **Currently Learning**  
@@ -14,5 +15,7 @@ I'm a developer in training on riwii and study technology of system information 
 💻 **proyects**
 
 I have created a sistem for a restaurant where aumatizated the task  it's name is **MANA**
-⚡ **Interests**  
+
+⚡ **Interests** 
+
 I'm passionate about technology and software development.
