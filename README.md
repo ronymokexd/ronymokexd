@@ -13,4 +13,4 @@ I'm a developer in training
 - SQL  
 
 ⚡ **Interests**  
-Technology & software development.
+I'm passionate about technology and software development.
