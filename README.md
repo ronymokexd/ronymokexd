@@ -1,16 +1,16 @@
-# Hi there 👋 
-I'm Ronaldo Rodriguez De Lima
+# Hi there 👋  
+I'm Ronaldo Rodriguez De Lima  
 
-## 💻 About Me
-I'm developer in training 
+💻 **About Me**  
+I'm a developer in training  
 
-## 🚀 Currently Learning
-- PYTHON
-- HTML
-- CSS
-- JS
-- NODE.JS
-- SQL
+🚀 **Currently Learning**  
+- Python  
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js  
+- SQL  
 
-## ⚡ INTEREST
-I'm passionate about technology and software development.
+⚡ **Interests**  
+Technology & software development.
