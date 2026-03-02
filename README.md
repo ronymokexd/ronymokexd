@@ -1,21 +1,40 @@
-# Hi there 👋  
-I'm Ronaldo Rodriguez De Lima  
+<h1 align="center">
+  Hey 👋 I'm Ronaldo Rodriguez De Lima
+</h1>
 
-💻 **About Me** 
+<p align="center">
+  💻 Systems Information Technology Student | 🚀 Developer in Training
+</p>
 
-I'm a developer in training on riwii and study technology of system information on universidad de barranquilla  
+## 🚀 Tech Stack
 
-🚀 **Currently Learning**  
-- Python  
-- HTML  
-- CSS  
-- JavaScript  
-- Node.js  
-- SQL  
-💻 **proyects**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
 
-I have created a sistem for a restaurant where aumatizated the task  it's name is **MANA**
+## 💻 About Me
 
-⚡ **Interests** 
+- 🎓 Studying **Systems Information Technology**
+- 🏫 Universidad de Barranquilla  
+- 💼 Developer in training at **Riwii**
+- 🌱 Always learning and improving my skills  
 
-I'm passionate about technology and software development.
+## 📂 Projects
+
+### 🍽 MANA  
+Restaurant management system that automates daily tasks.
+
+### 💎 Venus  
+Jewelry store digital catalog.
+
+## ⚡ Interests
+
+- 💡 Software Development  
+- 🧠 Continuous Learning  
+- 🚀 Building Real Projects  
